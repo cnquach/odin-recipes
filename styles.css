@@ -8,7 +8,26 @@ h1 {
     color: blanchedalmond;
 }
 
+h4 {
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blanchedalmond;
+}
+
+h5 {
+    font-size: 20px;
+    font-family: cursive;
+    color: blue;
+}
+
 li {
     color:blanchedalmond
 
+}
+
+img {
+    max-width: 100px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
